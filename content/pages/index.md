@@ -1,11 +1,11 @@
 ---
 layout: home
-permalink: /
+permalink: "/"
 title: home
 
 ---
+# hgvgkvgkvgkhv
 
-# test 1
-___
+***
 
-this is a first test
+ m m jnjnjnjnjnjnjjnjm m m m mm m m m m m m m m njnjnjnjn
